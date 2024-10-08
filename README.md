@@ -8,7 +8,7 @@ Bu projede, Python kullanarak HTTP isteklerini gerçekleştirmek için dört tem
 Projem aşağıdaki dosyaları içeriyor:
 
 ```
-http_requests/
+
 │
 ├── get_request.py
 ├── post_request.py
