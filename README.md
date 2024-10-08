@@ -120,9 +120,3 @@ Bu dosyaları çalıştırmak için bilgisayarımda Python yüklü olmalı. Her 
 - Python 3.x
 - `requests` kütüphanesi (Kurmak için: `pip install requests`)
 
-## Sonuç
-
-Bu proje, HTTP isteklerini anlamama ve Python kullanarak API'lerle nasıl etkileşimde bulunacağımı öğrenmeme yardımcı olacak. Daha fazla bilgi için [Requests Kütüphanesi](https://docs.python-requests.org/en/master/) belgesine göz atabilirim.
-```
-
-Bu içeriği doğrudan GitHub'a yükleyebilirsin. Başka bir şeyle yardımcı olabilir miyim?
