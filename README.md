@@ -111,9 +111,6 @@ else:
   - `requests.delete(url)` fonksiyonu, belirtilen URL'deki veriyi siliyor.
   - Eğer istek başarılıysa (HTTP 200 durumu), işlem başarılı olarak kabul ediliyor.
 
-## Kullanım
-
-Bu dosyaları çalıştırmak için bilgisayarımda Python yüklü olmalı. Her bir dosyayı terminal veya komut istemcisinde çalıştırarak örnek HTTP isteklerini deneyebilirim.
 
 ### Gereksinimler
 
